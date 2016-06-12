@@ -13,6 +13,7 @@
   "devDependencies": {
     "babel-core": "^6.9.1",
     "babel-loader": "^6.2.4",
+    "babel-preset-survivejs-kanban": "^0.3.3",
     "css-loader": "^0.23.1",
     "npm-install-webpack-plugin": "^4.0.0",
     "style-loader": "^0.13.1",
